@@ -1,6 +1,6 @@
 # Gatsby + Netlify CMS Factoria NFT Minter
 
-<a href="https://factoria-gatsby.netlify.app/"><img src="https://www.netlify.com/v3/img/components/full-logo-light-simple.svg" alt="Preview site"></a>
+<a href="https://factoria-gatsby.netlify.app/"><img src="https://www.netlify.com/v3/img/components/full-logo-light.svg" alt="Preview site"></a>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
 
